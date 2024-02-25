@@ -1,7 +1,6 @@
 # You Could try it yourself
 
-[DEMO](https://zesty-bublanina-262e88.netlify.app)
-
+(https://algorithmsortingvisualizer.netlify.app)
 
 # Getting Started with Create React App
 
